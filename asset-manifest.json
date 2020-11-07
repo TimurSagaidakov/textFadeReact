@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/textFadeReact/static/css/main.02ba6570.chunk.css",
-    "main.js": "/textFadeReact/static/js/main.03a7f852.chunk.js",
-    "main.js.map": "/textFadeReact/static/js/main.03a7f852.chunk.js.map",
+    "main.js": "/textFadeReact/static/js/main.f3dd82f8.chunk.js",
+    "main.js.map": "/textFadeReact/static/js/main.f3dd82f8.chunk.js.map",
     "runtime-main.js": "/textFadeReact/static/js/runtime-main.e04f5c69.js",
     "runtime-main.js.map": "/textFadeReact/static/js/runtime-main.e04f5c69.js.map",
     "static/js/2.09fbf895.chunk.js": "/textFadeReact/static/js/2.09fbf895.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e04f5c69.js",
     "static/js/2.09fbf895.chunk.js",
     "static/css/main.02ba6570.chunk.css",
-    "static/js/main.03a7f852.chunk.js"
+    "static/js/main.f3dd82f8.chunk.js"
   ]
 }
